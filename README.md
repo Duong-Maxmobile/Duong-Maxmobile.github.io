@@ -1,1 +1,1 @@
-# app-ads.txt
+google.com, pub-9428450136615077, DIRECT, f08c47fec0942fa0
